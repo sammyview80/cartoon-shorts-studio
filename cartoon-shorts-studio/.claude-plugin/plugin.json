@@ -1,0 +1,6 @@
+{
+  "name": "cartoon-shorts-studio",
+  "version": "0.1.0",
+  "description": "End-to-end pipeline for viral 2D-cartoon-in-3D-world shorts (TikTok, YouTube Shorts, Reels): research, script, lazy-viewer QA, render, publish. Built from a real pilot (a bunker cartoon series and a golf short, Nov 2026).",
+  "author": { "name": "cartoon-shorts-studio contributors" }
+}

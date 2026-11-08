@@ -1,0 +1,16 @@
+{
+  "name": "cartoon-shorts",
+  "owner": {
+    "name": "cartoon-shorts-studio contributors"
+  },
+  "plugins": [
+    {
+      "name": "cartoon-shorts-studio",
+      "source": "./cartoon-shorts-studio",
+      "description": "Research, script, QA, render and publish viral cartoon shorts."
+    }
+  ],
+  "metadata": {
+    "description": "Plugins: research, script, QA, render and publish viral cartoon shorts."
+  }
+}
